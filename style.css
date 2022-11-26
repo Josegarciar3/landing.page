@@ -1,0 +1,28 @@
+.Promo{
+    background-color: #3F7633;
+
+    
+
+}
+
+.grid1{
+    
+     display: grid;
+     grid-template-columns: 250px 1187px;
+     grid-template-rows: 200px;
+}   
+
+.services{
+
+    display:flex;
+    flex-direction: row;
+    justify-content:center ;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+.logoDoggie{
+    background-color:;
+}

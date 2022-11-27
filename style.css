@@ -1,6 +1,9 @@
 .Promo{
     background-color: #3F7633;
 
+    padding: 25px;
+    flex-wrap: wrap;
+    min-width: 250px;
     
 
 }
@@ -10,6 +13,9 @@
      display: grid;
      grid-template-columns: 250px 1187px;
      grid-template-rows: 200px;
+     
+     
+
 }   
 
 .services{
@@ -19,7 +25,7 @@
     justify-content:center ;
     justify-content: space-around;
     align-items: center;
-    
+   
 
 }
 
@@ -28,6 +34,8 @@
     display: grid;
     grid-template-columns: 937px 500px;
     grid-template-rows: 400px;
+    padding: 25px;
+   
 } 
 
 .adpfr{
@@ -37,6 +45,8 @@
     font-family: rockwell ;
     display:flex;
     justify-content: center;
+  
+    
 }
 
 .sponsor{

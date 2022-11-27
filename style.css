@@ -56,19 +56,15 @@
 
 }
 
-.shopping{
-    
-    background-color: #E36628;
+.servicios{
+    background-color: #E5C94C;
     display: grid;
-    grid-template-columns: 1437px;
-    grid-template-rows: 600px;
-    justify-content: center;
-    align-items: center;
-} 
+    grid-template-columns: 475px 475px 475px;
+    grid-template-rows: 500px;
+}  
 
-.petJacket{
-    display: flex;
-    justify-content: center;
-    
-   
+.sales1{
+    font-size: 100px;
+    color: red;
+    text-align: center;
 }

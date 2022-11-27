@@ -23,6 +23,37 @@
 
 }
 
-.logoDoggie{
-    background-color:;
+.adopta{
+    background-color: #00C4CC;
+    display: grid;
+    grid-template-columns: 937px 500px;
+    grid-template-rows: 400px;
+} 
+
+.adpfr{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 100px;
+    font-family: rockwell ;
+    display:flex;
+    justify-content: center;
+}
+
+.sponsor{
+    font-size: 50px;
+    font-family:didot ;
+    font-style: italic;
+    display:flex;
+    justify-content:center;
+    margin-bottom: 0px;
+    
+}
+
+.register{
+    width:500px ;
+    display:flex;
+    justify-content:left;
+
+
+
 }

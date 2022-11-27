@@ -54,6 +54,21 @@
     display:flex;
     justify-content:left;
 
+}
 
+.shopping{
+    
+    background-color: #E36628;
+    display: grid;
+    grid-template-columns: 1437px;
+    grid-template-rows: 600px;
+    justify-content: center;
+    align-items: center;
+} 
 
+.petJacket{
+    display: flex;
+    justify-content: center;
+    
+   
 }

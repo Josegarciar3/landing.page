@@ -30,6 +30,7 @@
 }
 
 .jumbotron{
+    
     background-color: #00C4CC;
     display: grid;
     grid-template-columns: 937px 500px;
